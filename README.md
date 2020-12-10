@@ -37,7 +37,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
   * Faça o `commit` inicial
       * Exemplo:
         * `git commit -m 'iniciando o projeto x'` (fazendo o primeiro commit)
-        * `git status` (deve aparecer uma mensagem tipo _nothing to commit_ )
+        * `git status` (deve aparecer uma mensagem tipo _nothing to commit_)
 
 5. Adicione a sua branch com o novo `commit` ao repositório remoto
   * Usando o exemplo anterior: `git push -u origin joaozinho-sd-00-project-blogs-api-individual`
